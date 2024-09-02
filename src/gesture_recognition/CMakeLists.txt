@@ -1,0 +1,2 @@
+add_library(gesture_recognition_lib INTERFACE)
+target_include_directories(gesture_recognition_lib INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
